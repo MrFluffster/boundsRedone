@@ -1,0 +1,125 @@
+{
+  "hullName": "Condor",
+  "hullId": "condor",
+  "hullSize": "DESTROYER",
+  "spriteName": "graphics/ships/condor/condor_base.png",
+  "style": "LOW_TECH",
+  "height": 204,
+  "width": 110,
+  "center": [53, 72],
+  "collisionRadius": 146,
+  "shieldCenter": [25, 1],
+  "shieldRadius": 120,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "id": "WS 001",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 315,
+      "angle": 0,
+      "locations": [109, 18]
+    },
+    {
+      "id": "WS 002",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 360,
+      "angle": 0,
+      "locations": [9, -31]
+    },
+    {
+      "id": "WS 003",
+      "size": "MEDIUM",
+      "type": "MISSILE",
+      "mount": "TURRET",
+      "arc": 360,
+      "angle": 0,
+      "locations": [25, 41]
+    },
+    {
+      "id": "WS 004",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [
+        40, 1,
+        57, 5,
+        79, 5,
+        46, -18
+      ]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-69, 16],
+      "length": 75,
+      "width": 24,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-69, -21],
+      "length": 75,
+      "width": 24,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-63, -3],
+      "length": 64,
+      "width": 16,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-66, 25],
+      "length": 50,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-67, -31],
+      "length": 50,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "LOW_TECH"
+    }
+  ],
+  "bounds": [
+    117, 10,
+    87, 9.5,
+    44.5, 2,
+    46, -30,
+    79, -37,
+    76, -48,
+    18.5, -51.5,
+    -4, -40,
+    -23, -49,
+    -36, -49,
+    -51, -36,
+    -65, -31,
+    -68, 17,
+    -61, 30,
+    -48, 32,
+    -42, 44,
+    -5.5, 49.5,
+    3, 43,
+    27.5, 49,
+    39, 40.5,
+    57.5, 40.5,
+    62, 47,
+    90, 40.5,
+    113, 28
+  ]
+}

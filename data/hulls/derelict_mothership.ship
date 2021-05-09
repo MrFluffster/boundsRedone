@@ -1,0 +1,108 @@
+{
+  "hullName": "Derelict Survey Mothership",
+  "hullId": "station_derelict_survey_mothership",
+  "hullSize": "CAPITAL_SHIP",
+  "spriteName": "graphics/ships/derelict/survey_mothership_battle.png",
+  "style": "LOW_TECH",
+  "height": 512,
+  "width": 512,
+  "center": [257, 256],
+  "collisionRadius": 330,
+  "shieldCenter": [1, 1],
+  "shieldRadius": 330,
+  "viewOffset": 0,
+  "builtInMods": [
+    "vastbulk",
+    "axialrotation",
+    "supercomputer"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS 001",
+      "size": "LARGE",
+      "type": "STATION_MODULE",
+      "mount": "HARDPOINT",
+      "arc": 1,
+      "angle": 0,
+      "locations": [246, 61]
+    },
+    {
+      "id": "WS 002",
+      "size": "LARGE",
+      "type": "STATION_MODULE",
+      "mount": "HARDPOINT",
+      "arc": 1,
+      "angle": 0,
+      "locations": [-194, 156]
+    },
+    {
+      "id": "WS 003",
+      "size": "LARGE",
+      "type": "STATION_MODULE",
+      "mount": "HARDPOINT",
+      "arc": 1,
+      "angle": 0,
+      "locations": [105, -154]
+    },
+    {
+      "id": "WS 004",
+      "size": "LARGE",
+      "type": "STATION_MODULE",
+      "mount": "HARDPOINT",
+      "arc": 1,
+      "angle": 0,
+      "locations": [-158, -161]
+    },
+    {
+      "id": "WS 005",
+      "size": "LARGE",
+      "type": "STATION_MODULE",
+      "mount": "HARDPOINT",
+      "arc": 1,
+      "angle": 0,
+      "locations": [267, -79]
+    },
+    {
+      "id": "WS 006",
+      "size": "LARGE",
+      "type": "STATION_MODULE",
+      "mount": "HARDPOINT",
+      "arc": 1,
+      "angle": 0,
+      "locations": [103, 181]
+    }
+  ],
+  "engineSlots": [],
+  "bounds": [
+    246, 117.5,
+    125, 157,
+    122, 172,
+    71, 186.5,
+    54, 160,
+    28.5, 177,
+    -21, 179,
+    -28, 159.5,
+    -75, 152,
+    -88, 144,
+    -111, 154,
+    -170, 174,
+    -236, 163,
+    -247, 119,
+    -244, -163,
+    -175, -174,
+    -140, -157,
+    -83, -152,
+    -75, -142,
+    -26, -153,
+    45, -140,
+    46.5, -161,
+    86.5, -160,
+    96, -176,
+    114, -143,
+    169, -136,
+    242.5, -91,
+    246, -30,
+    230, 4,
+    244.5, 26.5
+  ]
+}
