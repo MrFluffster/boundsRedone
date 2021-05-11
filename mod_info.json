@@ -1,5 +1,5 @@
 {
-	"id":"boundsredone",
+	"id":"##_boundsredone",
 	"name":"Bounds Redone",
 	"author":"PMMeCuteBugPhotos",
 	"version":"1.0",
@@ -12,7 +12,6 @@
 		"data/hulls/condor.ship",
 		"data/hulls/dagger.ship",
 		"data/hulls/derelict_mothership.ship",
-		"data/hulls/dram.ship",
 		"data/hulls/drone_terminator.ship",
 		"data/hulls/drover.ship",
 		"data/hulls/enforcer.ship",
@@ -25,7 +24,6 @@
 		"data/hulls/monitor.ship",
 		"data/hulls/mudskipper.ship",
 		"data/hulls/mule.ship",
-		"data/hulls/nebula.ship",
 		"data/hulls/omen.ship",
 		"data/hulls/ox.ship",
 		"data/hulls/piranha.ship",

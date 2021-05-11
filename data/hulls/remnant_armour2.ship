@@ -1,23 +1,6 @@
 {
-  "hullName": "Remnant Station Armour",
-  "hullId": "remnant_armour2",
-  "hullSize": "FRIGATE",
-  "spriteName": "graphics/ships/remnants/remnant_station_armour2.png",
-  "style": "HIGH_TECH",
-  "height": 36,
-  "width": 132,
-  "center": [65, 15],
-  "collisionRadius": 68,
-  "shieldCenter": [1, 0],
-  "shieldRadius": 68,
-  "viewOffset": 0,
-  "builtInMods": [
-    "reduced_explosion",
-    "always_detaches"
-  ],
-  "weaponSlots": [],
-  "engineSlots": [],
   "bounds": [
+	core_clearArray
     0, 61,
     14, 42,
     13, -41,
