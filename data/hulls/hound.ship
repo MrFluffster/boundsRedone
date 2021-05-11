@@ -1,67 +1,6 @@
 {
-  "hullName": "Hound",
-  "hullId": "hound",
-  "hullSize": "FRIGATE",
-  "spriteName": "graphics/ships/hound/hound_base.png",
-  "style": "LOW_TECH",
-  "height": 72,
-  "width": 62,
-  "center": [31, 27],
-  "collisionRadius": 73,
-  "shieldCenter": [8, 0],
-  "shieldRadius": 64,
-  "viewOffset": 0,
-  "builtInMods": [
-    "shielded_holds"
-  ],
-  "weaponSlots": [
-    {
-      "id": "WS 001",
-      "size": "MEDIUM",
-      "type": "BALLISTIC",
-      "mount": "HARDPOINT",
-      "arc": 5,
-      "angle": 0,
-      "locations": [34, -6]
-    },
-    {
-      "id": "WS 002",
-      "size": "SMALL",
-      "type": "BALLISTIC",
-      "mount": "TURRET",
-      "arc": 290,
-      "angle": 145,
-      "locations": [-4, 4]
-    },
-    {
-      "id": "WS 003",
-      "size": "SMALL",
-      "type": "SYSTEM",
-      "mount": "HIDDEN",
-      "arc": 90,
-      "angle": 180,
-      "locations": [-19, 0]
-    }
-  ],
-  "engineSlots": [
-    {
-      "location": [-25, 22],
-      "length": 80,
-      "width": 16,
-      "angle": 180,
-      "contrailSize": 64,
-      "style": "LOW_TECH"
-    },
-    {
-      "location": [-25, -22],
-      "length": 80,
-      "width": 16,
-      "angle": 180,
-      "contrailSize": 64,
-      "style": "LOW_TECH"
-    }
-  ],
   "bounds": [
+	core_clearArray
     43, 13,
     37, -14,
     5, -10,

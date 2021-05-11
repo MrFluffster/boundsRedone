@@ -1,47 +1,6 @@
 {
-  "hullName": "Terminator Drone",
-  "hullId": "drone_terminator",
-  "hullSize": "FIGHTER",
-  "spriteName": "graphics/ships/drones/drone_terminatorB.png",
-  "style": "HIGH_TECH",
-  "height": 21,
-  "width": 18,
-  "center": [9, 8],
-  "collisionRadius": 40,
-  "shieldCenter": [0, 0],
-  "shieldRadius": 30,
-  "viewOffset": 0,
-  "weaponSlots": [
-    {
-      "id": "WS 001",
-      "size": "SMALL",
-      "type": "ENERGY",
-      "mount": "HIDDEN",
-      "arc": 360,
-      "angle": 0,
-      "locations": [3, 0]
-    },
-    {
-      "id": "WS 002",
-      "size": "SMALL",
-      "type": "ENERGY",
-      "mount": "HIDDEN",
-      "arc": 360,
-      "angle": 0,
-      "locations": [3, 0]
-    }
-  ],
-  "engineSlots": [
-    {
-      "location": [-4, 0],
-      "length": 24,
-      "width": 12,
-      "angle": 180,
-      "contrailSize": 64,
-      "style": "COBRA_BOMBER"
-    }
-  ],
   "bounds": [
+	core_clearArray
     14, 0,
     -4, 8.5,
     -4, -8
