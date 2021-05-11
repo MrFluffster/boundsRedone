@@ -1,6 +1,5 @@
 {
   "bounds": [
-	core_clearArray
     10, 14,
     10, -14.5,
     -15, -10,
